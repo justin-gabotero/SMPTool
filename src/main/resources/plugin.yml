@@ -1,0 +1,8 @@
+name: SMPTool
+version: '1.0-SNAPSHOT'
+main: org.envy97.sMPTool.SMPTool
+api-version: '1.21'
+commands:
+  trade:
+    description: Trade with other players!
+    usage: /trade
